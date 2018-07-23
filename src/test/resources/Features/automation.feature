@@ -44,6 +44,6 @@ Scenario Outline: Search for item and checkout
 	
 	Examples:
 	|search |searchval |magglass |overview |addtocart |continue |logo |twitter |twitteragain |cart |checkout |proceedToCheck |createAcc |errorText |fakeEmail |emailVal          |submit       |mister |fname |fnameval |lname |lnameval   |pass |passval |day |dayval |month |monthval |year |yearval |news |address |addval     |city |cityval  |state |stateval |zipcode |zipval |mobile |mobval     |register |proceed |termsAgree |proceedCar |totaltext |total |screen ||
-	|search |shoes     |magglass |overview |addtocart |continue |logo |twitter |twitteragain |cart |checkout |proceedToCheck |createAcc |errorText |fakeEmail |abc1244@gmail.com |submitButton |mister |fname |Mark     |lname |Zuckerberg |pass |abcd123 |day |22     |month |7        |year |1990    |news |address |1225 67 av |city |new york |state |New York |zipcode |10001  |mobile |3212545152 |register |proceed |termsAgree |proceedCar |totaltext |total |screen ||
+	|search |shoes     |magglass |overview |addtocart |continue |logo |twitter |twitteragain |cart |checkout |proceedToCheck |createAcc |errorText |fakeEmail |abc1250@gmail.com |submitButton |mister |fname |Mark     |lname |Zuckerberg |pass |abcd123 |day |22     |month |7        |year |1990    |news |address |1225 67 av |city |new york |state |New York |zipcode |10001  |mobile |3212545152 |register |proceed |termsAgree |proceedCar |totaltext |total |screen ||
 	
 	
